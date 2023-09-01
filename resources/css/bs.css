@@ -1,0 +1,35 @@
+.d-flex {
+    display: flex;
+}
+
+.align-center {
+    align-items: center;
+}
+
+.jcc {
+    justify-content: center;
+}
+
+/*.col-8 {*/
+/*    width: 66.67%;*/
+/*    flex: 0 0 auto;*/
+/*}*/
+
+.col-4 {
+    width: 33.33%;
+    flex: 0 0 auto;
+}
+
+/* .row {
+    width: 100%;
+    flex-wrap: wrap;
+} */
+
+.jcsb {
+    justify-content: space-between;
+}
+
+.col-3 {
+    width: 25%;
+    flex: 0 0 auto;
+}
